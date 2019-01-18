@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Gron
+  - Rod
+  - Bla
+  - Orange
+  - Orange3
+  - Orange5
+  - Rod2
+  - Rod3
+  - Rod4
+  - Rod5
+  - Rod6
+  - Rod7
+  - Rod8
+  - Rod9
+  - Rod100
+  - Rod250
+  - Rod500
+  - Rod1000
+  - Prim
+  - Root
+  - NewChallenge
+  - Black
+  - GronRandom
+  - RodRandom
+  - OrangeRandom
+  - Gron8
+  - Gron5
+  - Gron6
+  - Gron9
+  - Gron7
+  - Gron3
+  - Gron4
+  - Gron2
+  - BlueRandom
+  - GreenMultiply
+  - RedMultiply
+  - GreenExponent
+  - RedExponent
+  - BiggerThan
+  - SmallerThan
+  - SmallerThanExponent
+  - BiggerThanExponent
+  - Surprise
+  - Bullet
+  - Reverse
+  - Infinity
+  - GreenPlus
+  - RedPlus
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Deep
+    uniqueID: 2250257033
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: OnTop1
+    uniqueID: 256498073
+    locked: 0
